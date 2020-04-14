@@ -1,3 +1,3 @@
 # Machine Learning for Internet of Things
 
-Accompanying materials for my lecture.
+Accompanying materials of lecture from LDSSM19 a bit refactored by me.
